@@ -40,6 +40,10 @@ function App() {
             <h2 className="text-xl font-semibold mb-2">Feature 3</h2>
             <p className="text-gray-600">Ut enim ad minim veniam, quis nostrud exercitation.</p>
           </div>
+
+          <div>
+            <h2>Hello World</h2>
+          </div>
         </div>
       </div>
     </div>
